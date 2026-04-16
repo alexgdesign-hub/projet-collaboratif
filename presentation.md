@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+\nContact : projet@email.com
+=======
 # À propos de nous\nNotre équipe est composée de...
-\nContact : contact@projet.fr
+\nContact : projet@email.com
+>>>>>>> origin/main
